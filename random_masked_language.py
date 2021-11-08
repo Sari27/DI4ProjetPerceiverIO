@@ -43,13 +43,10 @@ def stringWithMaskedWords(str, maskedwordsIndexesInStr):
     for i in range(len(maskedwordsIndexesInStr)):
         if i%2==0:
             input_tokens[maskedwordsIndexesInStr[i]:maskedwordsIndexesInStr[i+1]] = tokenizer.mask_token
-    return tokenizer.to_string(input_tokens)
+    return input_tokens
 
-def main():
-    # Données qui pourront à l'avenir être saisies par l'utilisateur
-    maskPercentage = 20  # doit être positif et inferieur a 100
-    str = "This is the best thing that happened to me. I wanted to share it with you."
-
+'''
+def main(str, maskPercentage):
     print("chaine saisie :",str)
     print("pourcentage saisi : ", maskPercentage)
     maskedWords, maskedwordsIndexesInData = chooseMaskedWords(str, maskPercentage)
@@ -58,4 +55,10 @@ def main():
     maskedString = stringWithMaskedWords(str, maskedwordsIndexesInStr)
     print("chaine avec mots masques : ",maskedString)
 
-main()
+
+# Données qui pourront à l'avenir être saisies par l'utilisateur
+maskPercentage = 20  # doit être positif et inferieur a 100
+str = "This is the best thing that happened to me. I wanted to share it with you."
+
+main(str, maskPercentage)
+'''
