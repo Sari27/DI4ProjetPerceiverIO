@@ -40,8 +40,8 @@ def stringWithMaskedWords(str, maskedwordsIndexesInStr):
     #définit la chaîne avec mots masqués
     tokenizer = bytes_tokenizer.BytesTokenizer()
     input_tokens = tokenizer.to_int(str)
-    for i in range(len(maskedwordsIndexesInStr)):
-        if i%2==0:
+    for i in range(2, len(maskedwordsIndexesInStr)):
+        if i % 2 == 0:
             input_tokens[maskedwordsIndexesInStr[i]:maskedwordsIndexesInStr[i+1]] = tokenizer.mask_token
     return input_tokens
 
