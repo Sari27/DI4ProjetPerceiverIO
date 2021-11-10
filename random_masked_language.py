@@ -23,7 +23,7 @@ def findIndexes(str, maskedwordsIndexesInData):
     wordIndex = 0
     for i in range(len(str)):
         if str[i] == ' ':
-            wordIndex+=1
+            wordIndex += 1
             if wordIndex in maskedwordsIndexesInData:
                 maskedwordsIndexesInStr.append(i)
         if wordIndex in maskedwordsIndexesInData and i + 1 < len(str):
@@ -40,9 +40,9 @@ def stringWithMaskedWords(str, maskedwordsIndexesInStr):
     #définit la chaîne avec mots masqués
     tokenizer = bytes_tokenizer.BytesTokenizer()
     input_tokens = tokenizer.to_int(str)
-    for i in range(2, len(maskedwordsIndexesInStr)):
-        if i % 2 == 0:
-            input_tokens[maskedwordsIndexesInStr[i]:maskedwordsIndexesInStr[i+1]] = tokenizer.mask_token
+    even_number_of_masked_words_indexes_in_str = len(maskedwordsIndexesInStr) - len(maskedwordsIndexesInStr) % 2
+    for masked_word_index in range(0, even_number_of_masked_words_indexes_in_str, 2):
+        input_tokens[maskedwordsIndexesInStr[masked_word_index]:maskedwordsIndexesInStr[masked_word_index+1]] = tokenizer.mask_token
     return input_tokens
 
 '''
