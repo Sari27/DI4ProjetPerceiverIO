@@ -345,7 +345,7 @@ class Perceiver(hk.Module):
       decoder,
       input_preprocessor=None,
       output_postprocessor=None,
-      name='perceiverIO'):
+      name='perceiver'):
     super().__init__(name=name)
 
     # Feature and task parameters:
