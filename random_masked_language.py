@@ -14,7 +14,9 @@ def chooseMaskedWords(str, maskPercentage):
         if generatedNumber <= maskPercentage:
             maskedwords.append(data[word])
             maskedwordsIndexesInData.append(word)
+    #retourne la liste des mots masqués et leurs indices dans la liste des mots
     return maskedwords, maskedwordsIndexesInData
+
 
 
 def findIndexes(str, maskedwordsIndexesInData):
@@ -33,6 +35,7 @@ def findIndexes(str, maskedwordsIndexesInData):
                 maskedwordsIndexesInStr.append(i)
         if wordIndex in maskedwordsIndexesInData and i + 1 == len(str):
             maskedwordsIndexesInStr.append(i+1)
+    #retourne les indices de début et de fin de chaque mot masqué
     return maskedwordsIndexesInStr
 
 
@@ -43,7 +46,15 @@ def stringWithMaskedWords(str, maskedwordsIndexesInStr):
     even_number_of_masked_words_indexes_in_str = len(maskedwordsIndexesInStr) - len(maskedwordsIndexesInStr) % 2
     for masked_word_index in range(0, even_number_of_masked_words_indexes_in_str, 2):
         input_tokens[maskedwordsIndexesInStr[masked_word_index]:maskedwordsIndexesInStr[masked_word_index+1]] = tokenizer.mask_token
-    return input_tokens
+    #retourne la chaîne en masquant les mots choisis
+    return tokenizer.to_string(input_tokens)
+
+'''
+def stringWithNewWords(realStr, foundStr, maskedwordsIndexesInStr):
+    #fournit la chaine avec les mots trouvés
+    even_number_of_masked_words_indexes_in_str = len(maskedwordsIndexesInStr) - len(maskedwordsIndexesInStr) % 2
+    for masked_word_index in range(0, even_number_of_masked_words_indexes_in_str, 2):
+  '''
 
 '''
 def main(str, maskPercentage):
