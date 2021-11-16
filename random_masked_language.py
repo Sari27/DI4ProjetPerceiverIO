@@ -54,8 +54,11 @@ def stringWithNewWords(realStr, foundStr, maskedwordsIndexesInStr):
     #fournit la chaine avec les mots trouvés
     even_number_of_masked_words_indexes_in_str = len(maskedwordsIndexesInStr) - len(maskedwordsIndexesInStr) % 2
     for masked_word_index in range(0, even_number_of_masked_words_indexes_in_str, 2):
-  '''
+    
+    
+def succed(maskedWordsInRealStr, maskedWordsInFoundStr)
 
+'''
 '''
 def main(str, maskPercentage):
     print("chaine saisie :",str)
