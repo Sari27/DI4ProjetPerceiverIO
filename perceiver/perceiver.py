@@ -21,8 +21,8 @@ import jax
 import jax.numpy as jnp
 import numpy as np
 
-import io_processors
-import position_encoding
+from perceiver import io_processors
+from perceiver import position_encoding
 
 
 #  -----------------------------------------------------------

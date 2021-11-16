@@ -1,5 +1,5 @@
 import random
-import bytes_tokenizer
+from perceiver import bytes_tokenizer
 
 # Objectif : masquer un pourcentage de mots spécifique aléatoirement.
 
