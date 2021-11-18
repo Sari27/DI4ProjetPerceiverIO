@@ -83,6 +83,23 @@ def stringWithNewWords(real_str, found_str, words_indexes_in_str):
     predicted_str = "".join(predicted_str)
     return predicted_str
 
+
+def computeEfficiency(real_str, found_str, words_indexes_in_str):
+    efficiency = 0.0
+
+    even_len_words_indexes_in_str = len(words_indexes_in_str) - len(words_indexes_in_str) % 2 #"corrige" l'ANOMALIE de analysis.ipynb
+    for index_even_iterator in range(0, even_len_words_indexes_in_str, 2):
+        if real_str[words_indexes_in_str[index_even_iterator]:words_indexes_in_str[index_even_iterator + 1]] \
+                == found_str[words_indexes_in_str[index_even_iterator]:words_indexes_in_str[index_even_iterator + 1]]:
+            efficiency += 1
+
+    number_of_words = len(words_indexes_in_str) / 2
+    if number_of_words:
+        efficiency /= number_of_words
+    else:
+        efficiency = None
+    return efficiency
+
 '''
 def succed(maskedWordsInRealStr, maskedWordsInFoundStr)
 
