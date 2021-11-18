@@ -28,6 +28,8 @@ def findIndexes(str, maskedwordsIndexesInData):
             if wordIndex in maskedwordsIndexesInData:
                 maskedwordsIndexesInStr.append(i)
         if wordIndex in maskedwordsIndexesInData and i + 1 < len(str):
+            if str[i+1] == ' ' and i == 0:
+                maskedwordsIndexesInStr.append(i)
             if str[i+1] == ' ':
                 maskedwordsIndexesInStr.append(i+1)
             elif i == 0:
@@ -100,11 +102,6 @@ def computeEfficiency(real_str, found_str, words_indexes_in_str):
         efficiency = None
     return efficiency
 
-'''
-def succed(maskedWordsInRealStr, maskedWordsInFoundStr)
-
-'''
-'''
 def main(str, maskPercentage):
     print("chaine saisie :",str)
     print("pourcentage saisi : ", maskPercentage)
@@ -113,11 +110,11 @@ def main(str, maskPercentage):
     maskedwordsIndexesInStr = findIndexes(str, maskedwordsIndexesInData)
     maskedString = stringWithMaskedWords(str, maskedwordsIndexesInStr)
     print("chaine avec mots masques : ",maskedString)
+    print(maskedwordsIndexesInStr)
 
 
 # Données qui pourront à l'avenir être saisies par l'utilisateur
-maskPercentage = 20  # doit être positif et inferieur a 100
-str = "This is the best thing that happened to me. I wanted to share it with you."
+maskPercentage = 100  # doit être positif et inferieur a 100
+str = "I wanted to share it with you."
 
 main(str, maskPercentage)
-'''

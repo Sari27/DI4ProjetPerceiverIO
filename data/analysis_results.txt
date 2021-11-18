@@ -1,0 +1,744 @@
+-1-
+-Sentence:
+In the period between the landing of the English at Jamestown, Virginia, in 1607, and the close of the French and Indian war in 1763 period of a century and a half new nation was being prepared on this continent to take its place among the powers of the earth.
+-Sentence predicted:
+In the period between the landing of the English at Lamestown, Virginia, in 1607, and the close of the French and Indian war in 1763 deeers of a century and a half new nation was being prepared on this continent to take its place among the powers of the earth.
+-Word-by-word prediction:
+	> between
+	> the
+	> of
+	> the
+	> Lamestown,
+	> in
+	> deeers
+	> prepared
+-Efficiency:
+75.00%
+
+-2-
+-Sentence:
+It was an epoch of migration.
+-Sentence predicted:
+It was an epoch of cereniin..
+-Word-by-word prediction:
+	> an
+	> cereniin..
+-Efficiency:
+50.00%
+
+-3-
+-Sentence:
+Western Europe contributed emigrants of many races and nationalities.
+-Sentence predicted:
+Western Europe contributed contesinally many races and chamss
+
+ations
+-Word-by-word prediction:
+	> contesina
+	>lly
+	> chamss
+
+ations
+-Efficiency:
+0.00%
+
+-4-
+-Sentence:
+The English led the way.
+-Sentence predicted:
+The English led the way.
+-Word-by-word prediction:
+-Efficiency:
+None
+
+-5-
+-Sentence:
+Next to them in numerical importance were the Scotch-Irish and the Germans.
+-Sentence predicted:
+next to them in numerical importance were the Scotch-Irish and the Germans.
+-Word-by-word prediction:
+	>next
+-Efficiency:
+0.00%
+
+-6-
+-Sentence:
+Into the melting pot were also cast Dutch, Swedes, French, Jews, Welsh, and Irish.
+-Sentence predicted:
+ aettiee melting poin.
+
+
+
+
+ils cast Dutch, Swedes, French, Jews, Welsh, and Irish.
+-Word-by-word prediction:
+	> aet
+	>tiee
+	> poi
+	>n.
+
+
+
+	>
+
+ils
+-Efficiency:
+0.00%
+
+-7-
+-Sentence:
+Thousands of negroes were brought from Africa to till Southern fields or labor as domestic servants in the North.
+-Sentence predicted:
+Thousands of negroes were brought from Africa to till Southern fields or labor as domestic servants in the South.
+-Word-by-word prediction:
+	> were
+	> from
+	> to
+	> as
+	> South.
+-Efficiency:
+80.00%
+
+-8-
+-Sentence:
+Why did they come? The reasons are various.
+-Sentence predicted:
+Why are they hore? The reasons are endless.
+-Word-by-word prediction:
+	> are
+	> hore?
+	> endless.
+-Efficiency:
+0.00%
+
+-9-
+-Sentence:
+Some of them, the Pilgrims and Puritans of New England, the French Huguenots, Scotch-Irish and Irish, and the Catholics of Maryland, fled from intolerant governments that denied them the right to worship God according to the dictates of their consciences.
+-Sentence predicted:
+Some of them, the Pilgrims and Puritans of New England, the French Poriee
+
+
+
+
+
+
+
+
+
+
+ralis
+
+The Irish, and the Colonists of Maryland, fled from intolerant governments that denied them the right tonworship God according to the dictates of their consciences.
+-Word-by-word prediction:
+	> and
+	> Poriee
+
+
+
+
+	>
+
+
+
+
+
+
+ralis
+
+	>
+The
+	> Colonists
+	> from
+	> that
+	> the
+	> to
+	>nworship
+	> the
+-Efficiency:
+54.55%
+
+-10-
+-Sentence:
+Thousands came to escape the bondage of poverty in the Old World and to find free homes in America.
+-Sentence predicted:
+Thousands came to escape the bondage of poverty in the Ned World and to find gooe homes in America.
+-Word-by-word prediction:
+	> Ned
+	> gooe
+-Efficiency:
+0.00%
+
+-11-
+-Sentence:
+Thousands, like the negroes from Africa, were dragged here against their will.
+-Sentence predicted:
+Thousands, like the negroes from Africa, were dragged here against their will.
+-Word-by-word prediction:
+	> were
+	> against
+-Efficiency:
+100.00%
+
+-12-
+-Sentence:
+The lure of adventure appealed to the restless and the lure of profits to the enterprising merchants.
+-Sentence predicted:
+The idea of adventure appealed to aileioiaies, and the resuing profits to the enterprising inaeeters.
+-Word-by-word prediction:
+	> idea
+	> ail
+	>eioiaies,
+	> resu
+	>ing
+	> inaeeters.
+-Efficiency:
+0.00%
+
+-13-
+-Sentence:
+How did they come? In some cases religious brotherhoods banded together and borrowed or furnished the funds necessary to pay the way.
+-Sentence predicted:
+How did they come? In mony cases religreut brotherhoods bonded together and borrowed or furnished the funds necessary to pay the way.
+-Word-by-word prediction:
+	> mony
+	> religreut
+	> bonded
+-Efficiency:
+0.00%
+
+-14-
+-Sentence:
+In other cases great trading companies were organized to found colonies.
+-Sentence predicted:
+In other warss great trading companies were cegrnited to found colonies.
+-Word-by-word prediction:
+	> warss
+	> cegrnited
+-Efficiency:
+0.00%
+
+-15-
+-Sentence:
+Again it was the wealthy proprietor, like Lord Baltimore or William Penn, who undertook to plant settlements.
+-Sentence predicted:
+Again it was the wealthy proprietor, like John Baltimore or William Penn, who continued to plant settlements.
+-Word-by-word prediction:
+	> John
+	> continued
+-Efficiency:
+0.00%
+
+-16-
+-Sentence:
+Many immigrants were able to pay their own way across the sea.
+-Sentence predicted:
+Many immigrants were able to pay their own way across the sea.
+-Word-by-word prediction:
+	> their
+-Efficiency:
+100.00%
+
+-17-
+-Sentence:
+Others bound themselves out for a term of years in exchange for the cost of the passage.
+-Sentence predicted:
+o   to bound themselves out for a term of years in exchange for the cost of the passage.
+-Word-by-word prediction:
+	>o   to
+-Efficiency:
+0.00%
+
+-18-
+-Sentence:
+Negroes were brought on account of the profits derived from their sale as slaves.
+-Sentence predicted:
+Negroes were brought on account of the profits derived from their sale as slaves.
+-Word-by-word prediction:
+-Efficiency:
+None
+
+-19-
+-Sentence:
+Whatever the motive for their coming, however, they managed to get across the sea.
+-Sentence predicted:
+Whatever the motive for their coming, however, they managed to get across the sea.
+-Word-by-word prediction:
+	> the
+	> across
+-Efficiency:
+100.00%
+
+-20-
+-Sentence:
+The immigrants set to work with a will.
+-Sentence predicted:
+The immigrants set to work with a will.
+-Word-by-word prediction:
+	> to
+-Efficiency:
+100.00%
+
+-21-
+-Sentence:
+They cut down forests, built houses, and laid out fields.
+-Sentence predicted:
+They cut down forests, built honses, and laid out fields.
+-Word-by-word prediction:
+	> honses,
+-Efficiency:
+0.00%
+
+-22-
+-Sentence:
+They founded churches, schools, and colleges.
+-Sentence predicted:
+They founded churches, schools, and colleges.
+-Word-by-word prediction:
+	> and
+-Efficiency:
+100.00%
+
+-23-
+-Sentence:
+They set up forges and workshops.
+-Sentence predicted:
+They set up forges and soaetiies.
+-Word-by-word prediction:
+	> set
+	> soaetiies.
+-Efficiency:
+50.00%
+
+-24-
+-Sentence:
+They spun and wove.
+-Sentence predicted:
+They spun and wove.
+-Word-by-word prediction:
+-Efficiency:
+None
+
+-25-
+-Sentence:
+They fashioned ships and sailed the seas.
+-Sentence predicted:
+They fashioned soaes and soaee
+.
+
+
+araeey
+-Word-by-word prediction:
+	> soaes
+	> soaee
+
+	>.
+
+
+
+	>araeey
+-Efficiency:
+0.00%
+
+-26-
+-Sentence:
+They bartered and traded.
+-Sentence predicted:
+ ere bartered and traded.
+-Word-by-word prediction:
+	> ere
+-Efficiency:
+0.00%
+
+-27-
+-Sentence:
+Here and there on favorable harbors they established centers of commerce-Boston, Providence, New York, Philadelphia, Baltimore, and Charleston.
+-Sentence predicted:
+Here and there on favorable terms.
+
+Wher established centers of commerce-Boston, Providence, New York, Philadelphia, Baltimore, and Charleston.
+-Word-by-word prediction:
+	> terms.
+
+	>
+Wher
+	> centers
+-Efficiency:
+33.33%
+
+-28-
+-Sentence:
+As soon as a firm foothold was secured on the shore line they pressed westward until, by the close of the colonial period, they were already on the crest of the Alleghanies.
+-Sentence predicted:
+As soon as a firm foothold was secured on the shore line they pressed westward until, by the close of the colonial period, they were feralny on the banks of the Alleghanies.
+-Word-by-word prediction:
+	> secured
+	> the
+	> until,
+	> feralny
+	> banks
+-Efficiency:
+60.00%
+
+-29-
+-Sentence:
+Though they were widely scattered along a thousand miles of seacoast, the colonists were united in spirit by many common ties.
+-Sentence predicted:
+though they were widely scattered along a thousand miles of seacoast, the colonists were united in spirit by many comion ties.
+-Word-by-word prediction:
+	>though
+	> along
+	> of
+	> comion
+-Efficiency:
+50.00%
+
+-30-
+-Sentence:
+The major portion of them were Protestants.
+-Sentence predicted:
+The major portion of them were Protestants.
+-Word-by-word prediction:
+	> were
+-Efficiency:
+100.00%
+
+-31-
+-Sentence:
+The language, the law, and the literature of England furnished the basis of national unity.
+-Sentence predicted:
+the language, the law, and the literature of England furnished the basis of national unity.
+-Word-by-word prediction:
+	>the
+	> of
+	> unity.
+-Efficiency:
+66.67%
+
+-32-
+-Sentence:
+Most of the colonists were engaged in the same hard task; that of conquering a wilderness.
+-Sentence predicted:
+Most of the colonists were engaged in sareaie, hard task; that of conquering a wilderness.
+-Word-by-word prediction:
+	> sar
+	>eaie,
+	> of
+-Efficiency:
+33.33%
+
+-33-
+-Sentence:
+To ties of kinship and language were added ties created by necessity.
+-Sentence predicted:
+To ties of kinship and language were coueeeeeeeeeeiated by necessity.
+-Word-by-word prediction:
+	> and
+	> couee
+	>eeeee
+	>eeeiated
+-Efficiency:
+25.00%
+
+-34-
+-Sentence:
+They had to unite in defense; first, against the Indians and later against the French.
+-Sentence predicted:
+They had to unite in partiie, first, against the Indians and later against the French.
+-Word-by-word prediction:
+	> to
+	> partiie,
+	> against
+	> the
+-Efficiency:
+75.00%
+
+-35-
+-Sentence:
+They were all subjects of the same sovereign-the king of England.
+-Sentence predicted:
+They were all eosentiainy the same perso
+.
+
+
+ehe king of England.
+-Word-by-word prediction:
+	> eosentia
+	>iny
+	> perso
+.
+
+
+ehe
+-Efficiency:
+0.00%
+
+-36-
+-Sentence:
+The English Parliament made laws for them and the English government supervised their local affairs, their trade, and their manufactures.
+-Sentence predicted:
+The English Parliament made laws for them and the English government supervised their local affairs, their trade, and their manufactures.
+-Word-by-word prediction:
+	> for
+	> trade,
+	> and
+-Efficiency:
+100.00%
+
+-37-
+-Sentence:
+Common forces assailed them.
+-Sentence predicted:
+Common forces assailed them.
+-Word-by-word prediction:
+-Efficiency:
+None
+
+-38-
+-Sentence:
+Common grievances vexed them.
+-Sentence predicted:
+Common grievances vexed them.
+-Word-by-word prediction:
+-Efficiency:
+None
+
+-39-
+-Sentence:
+Common hopes inspired them.
+-Sentence predicted:
+ eeeeiiatily inspired them.
+-Word-by-word prediction:
+	> eeeei
+	>iatily
+-Efficiency:
+0.00%
+
+-40-
+-Sentence:
+Many of the things which tended to unite them likewise tended to throw them into opposition to the British Crown and Parliament.
+-Sentence predicted:
+Many of the things which tended to unite them likewise tended to unine them into ouposition to the British Crown and Parliament.
+-Word-by-word prediction:
+	> which
+	> tended
+	> unine
+	> ouposition
+	> the
+-Efficiency:
+60.00%
+
+-41-
+-Sentence:
+Most of them were freeholders; that is, farmers who owned their own land and tilled it with their own hands.
+-Sentence predicted:
+Most of them were freeholders; that is, farmers who vanse their own land and waoeees—wiehhh theirwnen hands.
+-Word-by-word prediction:
+	> were
+	> vanse
+	> waoeee
+	>s—w
+	>iehhh
+	>wnen
+-Efficiency:
+16.67%
+
+-42-
+-Sentence:
+A free soil nourished the spirit of freedom.
+-Sentence predicted:
+A free soil eepresies the spirit of freedom.
+-Word-by-word prediction:
+	> eepresies
+	> of
+-Efficiency:
+50.00%
+
+-43-
+-Sentence:
+The majority of them were Dissenters, critics, not friends, of the Church of England, that stanch defender of the British monarchy.
+-Sentence predicted:
+The majority of them are: Dissenters, critics, not ceiieees of the Church of England, that stanch defender of the British monarchy.
+-Word-by-word prediction:
+	> majority
+	> are:
+	> ceiieees
+	> of
+-Efficiency:
+50.00%
+
+-44-
+-Sentence:
+Each colony in time developed its own legislature elected by the voters; it grew accustomed to making laws and laying taxes for itself.
+-Sentence predicted:
+ the colony in time developed its own legislature elected by the voters; it grew accustomed enforcing laws and laying ruxes for itself.
+-Word-by-word prediction:
+	> the
+	> by
+	> en
+	>forcing
+	> ruxes
+-Efficiency:
+20.00%
+
+-45-
+-Sentence:
+Here was a people learning self-reliance and self-government.
+-Sentence predicted:
+ hit was a people learning self-reliance and self-government.
+-Word-by-word prediction:
+	> hit
+	> and
+-Efficiency:
+50.00%
+
+-46-
+-Sentence:
+The attempts to strengthen the Church of England in America and the transformation of colonies into royal provinces only fanned the spirit of independence which they were designed to quench.
+-Sentence predicted:
+ eeteeeatios to strengthen the Church of England in America and the transformation of colonies into royal provinces only fanned sentiments of independence which they were desinned to quench.
+-Word-by-word prediction:
+	> ee
+	>teeeatios
+	> sen
+	>timents
+	> desinned
+	> to
+-Efficiency:
+16.67%
+
+-47-
+-Sentence:
+Nevertheless, the Americans owed much of their prosperity to the assistance of the government that irritated them.
+-Sentence predicted:
+Nevertheless, the Americans owed much of their prosperity to the corrupties of the government that irritated them.
+-Word-by-word prediction:
+	> corrupties
+-Efficiency:
+0.00%
+
+-48-
+-Sentence:
+It was the protection of the British navy that prevented Holland, Spain, and France from wiping out their settlements.
+-Sentence predicted:
+It was the protection of the British navy 11ie�
+
+
+
+
+
+
+
+
+
+
+rrtand, Spain, and France from wiping out their poieeations.
+-Word-by-word prediction:
+	> the
+	> 11ie
+	>�
+
+
+
+
+
+
+
+
+
+	>
+
+rrtand,
+	> out
+	> poieeations.
+-Efficiency:
+33.33%
+
+-49-
+-Sentence:
+Though their manufacture and trade were controlled in the interests of the mother country, they also enjoyed great advantages in her markets.
+-Sentence predicted:
+ Whice their manufacture and trade were intereated in the ternities of the mother country, they also enjoyed great advantages in the markets.
+-Word-by-word prediction:
+	> Whice
+	> intereated
+	> ternities
+	> great
+	> the
+-Efficiency:
+20.00%
+
+-50-
+-Sentence:
+Free trade existed nowhere upon the earth; but the broad empire of Britain was open to American ships and merchandise.
+-Sentence predicted:
+Free trade existed aoreaey upon the earth; but the great empire of Britain was open to American ships and merchandise.
+-Word-by-word prediction:
+	> aoreaey
+	> great
+	> was
+	> and
+-Efficiency:
+50.00%
+
+-51-
+-Sentence:
+It could be said, with good reason, that the disadvantages which the colonists suffered through British regulation of their industry and trade were more than offset by the privileges they enjoyed.
+-Sentence predicted:
+It could be said, with good reason, that the disadvantages which the colonists suffered through British regulation of their industry and trade were more than offset by the aovanthies they enjoyed.
+-Word-by-word prediction:
+	> be
+	> the
+	> aovanthies
+-Efficiency:
+66.67%
+
+-52-
+-Sentence:
+Still that is somewhat beside the point, for mere economic advantage is not necessarily the determining factor in the fate of peoples.
+-Sentence predicted:
+Still that is somewhat beside the point, but mere economic advantage is not necessarily the determining factor in the liee of peoples.
+-Word-by-word prediction:
+	> but
+	> liee
+-Efficiency:
+0.00%
+
+-53-
+-Sentence:
+A thousand circumstances had helped to develop on this continent a nation, to inspire it with a passion for independence, and to prepare it for a destiny greater than that of a prosperous dominion of the British empire.
+-Sentence predicted:
+A thousand peaeee.
+
+
+
+es had helped to develop on this continent a nation, to inspire it with a passion for independence, and to prepare it for a destiny greater than that of a prosperous proviion of the British empire.
+-Word-by-word prediction:
+	> peaeee.
+
+
+
+es
+	> continent
+	> independence,
+	> prepare
+	> that
+	> a
+	> proviion
+	> the
+-Efficiency:
+75.00%
+
+-54-
+-Sentence:
+The economists, who tried to prove by logic unassailable that America would be richer under the British flag, could not change the spirit of Patrick Henry, Samuel Adams, Benjamin Franklin, or George Washington..
+-Sentence predicted:
+The economists, who tried to prove by being unassailable that Anerand would be richer under the British rule, could not change the spirit of Patrick Henry, Samuel Adpms, Benjamin Franklin, or George Wastergton..
+-Word-by-word prediction:
+	> being
+	> Anerand
+	> rule,
+	> Adpms,
+	> Wastergton..
+-Efficiency:
+0.00%
+
