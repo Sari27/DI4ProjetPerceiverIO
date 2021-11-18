@@ -102,6 +102,8 @@ def computeEfficiency(real_str, found_str, words_indexes_in_str):
         efficiency = None
     return efficiency
 
+
+"""
 def main(str, maskPercentage):
     print("chaine saisie :",str)
     print("pourcentage saisi : ", maskPercentage)
@@ -112,9 +114,9 @@ def main(str, maskPercentage):
     print("chaine avec mots masques : ",maskedString)
     print(maskedwordsIndexesInStr)
 
-
 # Données qui pourront à l'avenir être saisies par l'utilisateur
 maskPercentage = 100  # doit être positif et inferieur a 100
 str = "I wanted to share it with you."
 
 main(str, maskPercentage)
+"""
