@@ -1,0 +1,38 @@
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Progression : 1%
+Progression : 5%
+Progression : 11%
+Progression : 16%
+Progression : 20%
+Progression : 25%
+Progression : 31%
+Progression : 35%
+Progression : 40%
+Progression : 46%
+Progression : 50%
+Progression : 51%
+Progression : 55%
+Progression : 61%
+Progression : 66%
+Progression : 70%
+Progression : 75%
+Progression : 81%
+Progression : 85%
+Progression : 90%
+Progression : 96%
+Progression : 100%
+Nombre de resultats: 35
+
+Efficacite du modele sur ./data/exampleText.txt
+avec un pourcentage de masquage de 5: 
+50.76%
+106.87619185447693
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Progression : 1%
+Progression : 5%
+Progression : 11%
+Progression : 16%
+Progression : 20%
+Progression : 25%
