@@ -1,0 +1,285 @@
+<2021-11-22 17:13:17.087368>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 79 116  38 ...   0   0   0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 30
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 5: 45.72%
+
+</2021-11-22 17:15:07.326957>
+<2021-11-22 17:15:07.333689>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 79 116   3 ...   0   0   0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 48
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 10: 48.94%
+
+</2021-11-22 17:16:53.203015>
+<2021-11-22 17:16:53.210826>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 79 116  38 ...   0   0   0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 45
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 15: 45.94%
+
+</2021-11-22 17:18:39.424421>
+<2021-11-22 17:18:39.429375>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 3  3 38 ...  0  0  0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 49
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 20: 46.22%
+
+</2021-11-22 17:20:21.124400>
+<2021-11-22 17:20:21.128932>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 79 116  38 ...   0   0   0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 50
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 25: 36.27%
+
+</2021-11-22 17:22:05.170449>
+<2021-11-22 17:22:05.179479>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 79 116  38 ...   0   0   0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 54
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 30: 25.05%
+
+</2021-11-22 17:23:48.788830>
+<2021-11-22 17:23:48.793462>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 79 116   3 ...   0   0   0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 52
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 35: 20.55%
+
+</2021-11-22 17:25:31.292517>
+<2021-11-22 17:25:31.301052>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 3  3 38 ...  0  0  0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 53
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 40: 23.52%
+
+</2021-11-22 17:27:15.363736>
+<2021-11-22 17:27:15.368143>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 79 116   3 ...   0   0   0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 53
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 45: 14.49%
+
+</2021-11-22 17:29:01.992670>
+<2021-11-22 17:29:01.997324>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 3  3 38 ...  0  0  0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 53
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 50: 14.12%
+
+</2021-11-22 17:30:49.300044>
+<2021-11-22 17:30:49.304782>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[ 79 116   3 ...   0   0   0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 54
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 55: 6.90%
+
+</2021-11-22 17:32:35.165450>
+<2021-11-22 17:32:35.171740>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[3 3 3 ... 0 0 0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 54
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 60: 7.48%
+
+</2021-11-22 17:34:22.408994>
+<2021-11-22 17:34:22.413433>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[3 3 3 ... 0 0 0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 54
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 65: 4.33%
+
+</2021-11-22 17:36:09.236745>
+<2021-11-22 17:36:09.241265>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[3 3 3 ... 0 0 0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 54
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 70: 4.30%
+
+</2021-11-22 17:38:02.664451>
+<2021-11-22 17:38:02.669451>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[3 3 3 ... 0 0 0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 54
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 75: 3.58%
+
+</2021-11-22 17:39:48.684765>
+<2021-11-22 17:39:48.689039>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[3 3 3 ... 0 0 0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 54
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 80: 0.62%
+
+</2021-11-22 17:41:34.066070>
+<2021-11-22 17:41:34.071501>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[3 3 3 ... 0 0 0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 54
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 85: 0.49%
+
+</2021-11-22 17:43:18.841497>
+<2021-11-22 17:43:18.845838>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[3 3 3 ... 0 0 0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 54
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 90: 0.27%
+
+</2021-11-22 17:45:04.812887>
+<2021-11-22 17:45:04.817210>
+Les hyperparametres ont ete charges.
+Extrait: In the period between the landing of the English at Jamestown, Virginia,
+in 1607, and the close of t
+
+Nombre de phrases trop longues : 0
+Nombre de phrases a tester: 54
+Exemple de inputs: [[3 3 3 ... 0 0 0]]
+Exemple de input_mask: [[1 1 1 ... 0 0 0]]
+Outputs disponibles dans ./results/analysis_results.txt
+Nombre de resultats: 54
+
+Efficacite moyenne du modele sur ./data/exampleText.txt avec un pourcentage de masquage de 95: 0.00%
+
+</2021-11-22 17:46:51.269946>

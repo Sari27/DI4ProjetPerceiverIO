@@ -1,0 +1,2796 @@
+-1-
+-Sentence:
+In the period between the landing of the English at Jamestown, Virginia, in 1607, and the close of the French and Indian war in 1763 period of a century and a half new nation was being prepared on this continent to take its place among the powers of the earth.
+-Sentence predicted:
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+iee its
+
+eeeeee
+
+
+
+
+
+eeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>
+e
+	>eeee
+	>eeeeeee
+	>eeeeeeee
+	>eeee
+	>eeeeeeee
+	>eee
+	>eeee
+	>eeeeeeee
+	>eee
+	>eeeeeeeeeee
+	>eeeeeeeeee
+	>eee
+	>eeeeee
+	>eeee
+	>eeee
+	>eeeeee
+	>eee
+	>eeee
+	>eeeeeee
+	>eeee
+	>eeeeeee
+	>eeee
+	>eee
+	>eeeee
+	>eeeeeee
+	>eee
+	>ee
+	>eeeeeeee
+	>eeee
+	>ee
+	>eeeee
+	>eeee
+	>eeeeeee
+	>eeee
+	>eeeeee
+	>eeeeeeeee
+	>eee
+	>eeeee
+	>eeeeeeeeee
+	>eee
+	>e
+iee
+	>
+
+eeee
+	>ee
+
+
+
+
+	>
+
+ee
+	>eeeeeee
+	>eee
+	>eeee
+	>eeeeeee
+-Efficiency:
+0.00%
+
+-2-
+-Sentence:
+It was an epoch of migration.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeiiiiiiiii
+-Word-by-word prediction:
+	>ee
+	>eeee
+	>eee
+	>eeeeee
+	>eee
+	>eeiiiiiiiii
+-Efficiency:
+0.00%
+
+-3-
+-Sentence:
+Western Europe contributed emigrants of many races and nationalities.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eeeeeee
+	>eeeeeee
+	>eeeeeeeeeeee
+	>eeeeeeeeee
+	>eee
+	>eeeee
+	>eeeeee
+	>eeee
+	>eeeeeeeeeeeeeee
+-Efficiency:
+0.00%
+
+-4-
+-Sentence:
+The English led the way.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeieeiiii
+-Word-by-word prediction:
+	>eee
+	>eeeeeeee
+	>eeee
+	>eeie
+	>eiiii
+-Efficiency:
+0.00%
+
+-5-
+-Sentence:
+Next to them in numerical importance were the Scotch-Irish and the Germans.
+-Sentence predicted:
+
+
+ee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thers were ceeee
+
+
+
+
+
+eoies and ceeeee
+
+e
+
+
+
+-Word-by-word prediction:
+	>
+
+ee
+	>
+
+
+
+	>
+
+
+
+
+
+	>
+
+
+
+	>
+
+
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+thers
+	> cee
+	>ee
+
+
+
+
+
+eoies
+	> cee
+	>eee
+
+e
+
+
+
+-Efficiency:
+0.00%
+
+-6-
+-Sentence:
+Into the melting pot were also cast Dutch, Swedes, French, Jews, Welsh, and Irish.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeie
+-Word-by-word prediction:
+	>eeee
+	>eeee
+	>eeeeeeee
+	>eeee
+	>eeeee
+	>eeeee
+	>eeeee
+	>eeeeeee
+	>eeeeeeee
+	>eeeeeeee
+	>eeeeee
+	>eeeeeee
+	>eeee
+	>eeeeeie
+-Efficiency:
+0.00%
+
+-7-
+-Sentence:
+Thousands of negroes were brought from Africa to till Southern fields or labor as domestic servants in the North.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eeeeeeeee
+	>eee
+	>eeeeeeee
+	>eeeee
+	>eeeeeeee
+	>eeeee
+	>eeeeeee
+	>eee
+	>eeeee
+	>eeeeeeeee
+	>eeeeeee
+	>eee
+	>eeeeee
+	>eee
+	>eeeeeeeee
+	>eeeeeeeee
+	>eee
+	>eeee
+	>eeeeeee
+-Efficiency:
+0.00%
+
+-8-
+-Sentence:
+Why did they come? The reasons are various.
+-Sentence predicted:
+
+
+ee
+
+
+
+
+
+
+
+
+
+
+ieaiiae reasons aore
+
+
+
+
+
+ii
+-Word-by-word prediction:
+	>
+
+e
+	>e
+
+
+
+	>
+
+
+
+
+
+	>
+
+
+iea
+	>iiae
+	> aor
+	>e
+
+
+
+
+
+ii
+-Efficiency:
+0.00%
+
+-9-
+-Sentence:
+Some of them, the Pilgrims and Puritans of New England, the French Huguenots, Scotch-Irish and Irish, and the Catholics of Maryland, fled from intolerant governments that denied them the right to worship God according to the dictates of their consciences.
+-Sentence predicted:
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>
+eee
+	>eee
+	>eeeeee
+	>eeee
+	>eeeeeeeee
+	>eeee
+	>eeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeeee
+	>eeee
+	>eeeeeee
+	>eeeeeeeeeee
+	>eeeeeeeeeeeee
+	>eeee
+	>eeeeeee
+	>eeee
+	>eeee
+	>eeeeeeeeee
+	>eee
+	>eeeeeeeeee
+	>eeeee
+	>eeeee
+	>eeeeeeeeeee
+	>eeeeeeeeeeee
+	>eeeee
+	>eeeeeee
+	>eeeee
+	>eeee
+	>eeeeee
+	>eee
+	>eeeeeeee
+	>eeee
+	>eeeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeeee
+	>eee
+	>eeeeee
+	>eeeeeeeeeeeee
+-Efficiency:
+0.00%
+
+-10-
+-Sentence:
+Thousands came to escape the bondage of poverty in the Old World and to find free homes in America.
+-Sentence predicted:
+
+
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RED�reet bondage 
+anee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eeaiies and sereei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee
+eee
+-Word-by-word prediction:
+	>
+
+e
+
+
+
+
+
+
+	>
+
+
+
+
+
+	>
+
+
+
+	>
+
+
+RED�
+	>reet
+	> 
+a
+	>nee
+
+
+
+
+
+	>
+
+
+
+	>
+
+
+
+
+	>
+
+
+e
+	>eaiies
+	> se
+	>reei
+
+	>
+
+
+
+
+
+	>
+
+
+
+
+
+
+	>
+
+
+
+	>
+
+
+ee
+eee
+-Efficiency:
+0.00%
+
+-11-
+-Sentence:
+Thousands, like the negroes from Africa, were dragged here against their will.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eeeeeeeeee
+	>eeeee
+	>eeee
+	>eeeeeeee
+	>eeeee
+	>eeeeeeee
+	>eeeee
+	>eeeeeeee
+	>eeeee
+	>eeeeeeee
+	>eeeeee
+	>eeeeee
+-Efficiency:
+0.00%
+
+-12-
+-Sentence:
+The lure of adventure appealed to the restless and the lure of profits to the enterprising merchants.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eee
+	>eeeee
+	>eee
+	>eeeeeeeeee
+	>eeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeeee
+	>eeee
+	>eeee
+	>eeeee
+	>eee
+	>eeeeeeee
+	>eee
+	>eeee
+	>eeeeeeeeeeeee
+	>eeeeeeeeeee
+-Efficiency:
+0.00%
+
+-13-
+-Sentence:
+How did they come? In some cases religious brotherhoods banded together and borrowed or furnished the funds necessary to pay the way.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eee
+	>eeee
+	>eeeee
+	>eeeeee
+	>eee
+	>eeeee
+	>eeeeee
+	>eeeeeeeeee
+	>eeeeeeeeeeeee
+	>eeeeeee
+	>eeeeeeeee
+	>eeee
+	>eeeeeeeee
+	>eee
+	>eeeeeeeeee
+	>eeee
+	>eeeeee
+	>eeeeeeeeee
+	>eee
+	>eeee
+	>eeee
+	>eeeee
+-Efficiency:
+0.00%
+
+-14-
+-Sentence:
+In other cases great trading companies were organized to found colonies.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>ee
+	>eeeeee
+	>eeeeee
+	>eeeeee
+	>eeeeeeee
+	>eeeeeeeeee
+	>eeeee
+	>eeeeeeeeee
+	>eee
+	>eeeeee
+	>eeeeeeeeee
+-Efficiency:
+0.00%
+
+-15-
+-Sentence:
+Again it was the wealthy proprietor, like Lord Baltimore or William Penn, who undertook to plant settlements.
+-Sentence predicted:
+
+
+
+
+eeee
+eee the
+
+eneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>
+
+
+
+e
+	>eee
+	>
+eee
+	>
+
+eneeee
+	>eeeeeeeeeeee
+	>eeeee
+	>eeeee
+	>eeeeeeeeee
+	>eee
+	>eeeeeeee
+	>eeeeee
+	>eeee
+	>eeeeeeeeee
+	>eee
+	>eeeeee
+	>eeeeeeeeeeeee
+-Efficiency:
+0.00%
+
+-16-
+-Sentence:
+Many immigrants were able to pay their own way across the sea.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee--eeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eeee
+	>eeeeeeeeeee
+	>eeeee
+	>eeeee
+	>eee
+	>eeee
+	>e--eee
+	>eeee
+	>eeee
+	>eeeeeee
+	>eeee
+	>eeeee
+-Efficiency:
+0.00%
+
+-17-
+-Sentence:
+Others bound themselves out for a term of years in exchange for the cost of the passage.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eeeeee
+	>eeeeee
+	>eeeeeeeeeee
+	>eeee
+	>eeee
+	>ee
+	>eeeee
+	>eee
+	>eeeeee
+	>eee
+	>eeeeeeeee
+	>eeee
+	>eeee
+	>eeeee
+	>eee
+	>eeee
+	>eeeeeeeee
+-Efficiency:
+0.00%
+
+-18-
+-Sentence:
+Negroes were brought on account of the profits derived from their sale as slaves.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-eeeeeeeeeeeeeeeeeeeii
+-Word-by-word prediction:
+	>eeeeeee
+	>eeeee
+	>eeeeeeee
+	>eee
+	>eeeeeeee
+	>eee
+	>eeee
+	>eeeeeeee
+	>eeeeeeee
+	>eeeee
+	>-eeeee
+	>eeeee
+	>eee
+	>eeeeeeii
+-Efficiency:
+0.00%
+
+-19-
+-Sentence:
+Whatever the motive for their coming, however, they managed to get across the sea.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeie
+-Word-by-word prediction:
+	>eeeeeeee
+	>eeee
+	>eeeeeee
+	>eeee
+	>eeeeee
+	>eeeeeeee
+	>eeeeeeeee
+	>eeeee
+	>eeeeeeee
+	>eee
+	>eeee
+	>eeeeeee
+	>eeee
+	>eeeie
+-Efficiency:
+0.00%
+
+-20-
+-Sentence:
+The immigrants set to work with a will.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeiiiiiiii
+-Word-by-word prediction:
+	>eee
+	>eeeeeeeeeee
+	>eeee
+	>eee
+	>eeeee
+	>eeeee
+	>ii
+	>iiiiii
+-Efficiency:
+0.00%
+
+-21-
+-Sentence:
+They cut down forests, built houses, and laid out fields.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee---eeeeeeeeeeeieeeeeeeiii
+-Word-by-word prediction:
+	>eeee
+	>eeee
+	>eeeee
+	>eeeeeeeee
+	>eeeeee
+	>eeee---e
+	>eeee
+	>eeeee
+	>eiee
+	>eeeeeiii
+-Efficiency:
+0.00%
+
+-22-
+-Sentence:
+They founded churches, schools, and colleges.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeiiiiiiiii
+-Word-by-word prediction:
+	>eeee
+	>eeeeeeee
+	>eeeeeeeeee
+	>eeeeeeeee
+	>eeee
+	>eiiiiiiiii
+-Efficiency:
+0.00%
+
+-23-
+-Sentence:
+They set up forges and workshops.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeiiii
+-Word-by-word prediction:
+	>eeee
+	>eeee
+	>eee
+	>eeeeeee
+	>eeee
+	>eeeeeeeiiii
+-Efficiency:
+0.00%
+
+-24-
+-Sentence:
+They spun and wove.
+-Sentence predicted:
+
+
+eaiieee andi
+eeee
+-Word-by-word prediction:
+	>
+
+ea
+	>iieee
+	>i
+eeee
+-Efficiency:
+0.00%
+
+-25-
+-Sentence:
+They fashioned ships and sailed the seas.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeiiiiii
+-Word-by-word prediction:
+	>eeee
+	>eeeeeeeeee
+	>eeeeee
+	>eeee
+	>eeeeeee
+	>eeee
+	>iiiiii
+-Efficiency:
+0.00%
+
+-26-
+-Sentence:
+They bartered and traded.
+-Sentence predicted:
+ aeeee....ublilly traded.
+-Word-by-word prediction:
+	> aee
+	>ee....ubl
+	>illy
+-Efficiency:
+0.00%
+
+-27-
+-Sentence:
+Here and there on favorable harbors they established centers of commerce-Boston, Providence, New York, Philadelphia, Baltimore, and Charleston.
+-Sentence predicted:
+
+
+
+
+
+
+oo
+iiically favorable results they
+
+ete
+
+/
+
+
+
+
+////
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>
+
+
+
+
+	>
+
+oo
+	>
+iiica
+	>lly
+	> results
+	>
+
+ete
+
+/
+
+
+
+
+	>
+////
+ee
+	>eee
+	>eeeeeeeeeeeeeeeee
+	>eeeeeeeeeeee
+	>eeee
+	>eeeeee
+	>eeeeeeeeeeeeee
+	>eeeeeeeeeee
+	>eeee
+	>eeeeeeeeeeee
+-Efficiency:
+0.00%
+
+-28-
+-Sentence:
+As soon as a firm foothold was secured on the shore line they pressed westward until, by the close of the colonial period, they were already on the crest of the Alleghanies.
+-Sentence predicted:
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>
+e
+	>eeeee
+	>eee
+	>ee
+	>eeeee
+	>eeeeeeeee
+	>eeee
+	>eeeeeeee
+	>eee
+	>eeee
+	>eeeeee
+	>eeeee
+	>eeeee
+	>eeeeeeee
+	>eeeeeeeee
+	>eeeeeee
+	>eee
+	>eeee
+	>eeeeee
+	>eee
+	>eeee
+	>eeeeeeeee
+	>eeeeeeee
+	>eeeee
+	>eeeee
+	>eeeeeeee
+	>eee
+	>eeee
+	>eeeeee
+	>eee
+	>eeee
+	>eeeeeeeeeeeee
+-Efficiency:
+0.00%
+
+-29-
+-Sentence:
+Though they were widely scattered along a thousand miles of seacoast, the colonists were united in spirit by many common ties.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eeeeee
+	>eeeee
+	>eeeee
+	>eeeeeee
+	>eeeeeeeeee
+	>eeeeee
+	>ee
+	>eeeeeeeee
+	>eeeeee
+	>eee
+	>eeeeeeeeee
+	>eeee
+	>eeeeeeeeee
+	>eeeee
+	>eeeeeee
+	>eee
+	>eeeeeee
+	>eee
+	>eeeee
+	>eeeeeee
+	>eeeeee
+-Efficiency:
+0.00%
+
+-30-
+-Sentence:
+The major portion of them were Protestants.
+-Sentence predicted:
+
+
+ee
+
+
+
+
+
+
+
+
+
+
+eeeoee--eeaiian Protestants.
+-Word-by-word prediction:
+	>
+
+e
+	>e
+
+
+
+
+
+	>
+
+
+
+
+
+ee
+	>eoe
+	>e--ee
+	>aiian
+-Efficiency:
+0.00%
+
+-31-
+-Sentence:
+The language, the law, and the literature of England furnished the basis of national unity.
+-Sentence predicted:
+
+eee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aiian national
+ieent
+
+-Word-by-word prediction:
+	>
+ee
+	>e
+
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+
+
+
+	>
+
+
+
+	>
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+ai
+	>ian
+	>
+ieent
+
+-Efficiency:
+0.00%
+
+-32-
+-Sentence:
+Most of the colonists were engaged in the same hard task; that of conquering a wilderness.
+-Sentence predicted:
+
+eeeeeeeeeeeeeeeeeeeeeeeee
+
+
+
+
+e
+
+iee the
+aaneee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>
+eee
+	>eee
+	>eeee
+	>eeeeeeeeee
+	>eeeee
+	>
+
+
+
+
+e
+
+
+	>iee
+	>
+aane
+	>ee
+ee
+	>eeeeee
+	>eeeee
+	>eee
+	>eeeeeeeeeee
+	>ee
+	>eeeeeeeeeeee
+-Efficiency:
+0.00%
+
+-33-
+-Sentence:
+To ties of kinship and language were added ties created by necessity.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>ee
+	>eeeee
+	>eee
+	>eeeeeeee
+	>eeee
+	>eeeeeeeee
+	>eeeee
+	>eeeeee
+	>eeeee
+	>eeeeeeee
+	>eee
+	>eeeeeeeeeee
+-Efficiency:
+0.00%
+
+-34-
+-Sentence:
+They had to unite in defense; first, against the Indians and later against the French.
+-Sentence predicted:
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+
+ee
+
+iee the
+
+eneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>
+eee
+	>eeee
+	>eee
+	>eeeeee
+	>eee
+	>eeeeeeeee
+	>eeeee
+
+
+	>
+ee
+
+iee
+	>
+
+eneeee
+	>eeee
+	>eeeeee
+	>eeeeeeee
+	>eeee
+	>eeeeeeee
+-Efficiency:
+0.00%
+
+-35-
+-Sentence:
+They were all subjects of the same sovereign-the king of England.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-eeeeeeeeeeeeeeeeeeeeeeeeeeeeiii
+-Word-by-word prediction:
+	>eeee
+	>eeeee
+	>eeee
+	>eeeeeeeee
+	>eee
+	>eeee
+	>eeee-
+	>eeeeeeeeeeeeee
+	>eeeee
+	>eee
+	>eeeeeeiii
+-Efficiency:
+0.00%
+
+-36-
+-Sentence:
+The English Parliament made laws for them and the English government supervised their local affairs, their trade, and their manufactures.
+-Sentence predicted:
+The Aeteee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eeee
+
+eeeeee
+
+
+
+
+
+ee
+
+
+
+
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+e
+aeroiae trade, hetes
+
+
+
+
+
+
+
+
+
+
+
+
+
+eeee
+-Word-by-word prediction:
+	> Aeteee
+
+	>
+
+
+
+
+
+
+
+
+
+
+
+	>
+
+
+
+e
+	>eee
+
+
+	>eeee
+	>ee
+
+
+
+	>
+
+
+e
+	>e
+
+
+
+	>
+
+
+eeeee
+	>eeeeeeeeeee
+	>eeeeeeeeeee
+	>eeeeee
+	>eeeeee
+	>eeee
+
+e
+a
+	>eroiae
+	> het
+	>es
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+
+eeee
+-Efficiency:
+0.00%
+
+-37-
+-Sentence:
+Common forces assailed them.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeieeiiiiiiii
+-Word-by-word prediction:
+	>eeeeee
+	>eeeeeee
+	>eeeeieeii
+	>iiiiii
+-Efficiency:
+0.00%
+
+-38-
+-Sentence:
+Common grievances vexed them.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeiiiiiiiii
+-Word-by-word prediction:
+	>eeeeee
+	>eeeeeeeeeee
+	>eeeiii
+	>iiiiii
+-Efficiency:
+0.00%
+
+-39-
+-Sentence:
+Common hopes inspired them.
+-Sentence predicted:
+eeoeeeeeeeeeeeeeeieeiiiiiii
+-Word-by-word prediction:
+	>eeoeee
+	>eeeeee
+	>eeeeeieei
+	>iiiiii
+-Efficiency:
+0.00%
+
+-40-
+-Sentence:
+Many of the things which tended to unite them likewise tended to throw them into opposition to the British Crown and Parliament.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eeee
+	>eee
+	>eeee
+	>eeeeeee
+	>eeeeee
+	>eeeeeee
+	>eee
+	>eeeeee
+	>eeeee
+	>eeeeeeeee
+	>eeeeeee
+	>eee
+	>eeeeee
+	>eeeee
+	>eeeee
+	>eeeeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeee
+	>eeeeee
+	>eeee
+	>eeeeeeeeeeee
+-Efficiency:
+0.00%
+
+-41-
+-Sentence:
+Most of them were freeholders; that is, farmers who owned their own land and tilled it with their own hands.
+-Sentence predicted:
+
+ale of  hem were selee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+�'s own
+sote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Word-by-word prediction:
+	>
+ale
+	>  hem
+	> selee
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+	>
+
+
+�'s
+	>
+sote
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+
+	>
+
+
+
+	>
+
+
+
+
+
+	>
+
+
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+
+-Efficiency:
+0.00%
+
+-42-
+-Sentence:
+A free soil nourished the spirit of freedom.
+-Sentence predicted:
+
+
+oe
+
+
+
+
+
+
+
+
+
+
+
+
+
+eatieen spirit ceneeiii
+
+
+
+-Word-by-word prediction:
+	>
+
+	>
+oe
+
+
+	>
+
+
+
+
+
+	>
+
+
+
+
+
+
+eat
+	>ieen
+	> ce
+	>neeiii
+
+
+
+-Efficiency:
+0.00%
+
+-43-
+-Sentence:
+The majority of them were Dissenters, critics, not friends, of the Church of England, that stanch defender of the British monarchy.
+-Sentence predicted:
+
+eee
+eee
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+ee, England, England
+
+
+
+
+
+
+
+
+
+
+eeee
+
+
+
+ee
+
+
+
+
+eeeeeeeeeeee
+-Word-by-word prediction:
+	>
+ee
+	>e
+eee
+
+ee
+	>eee
+	>eeeee
+	>eeeee
+	>eeeeeeeeeeee
+	>eeeeeeeee
+	>eeee
+	>eeeeeeeee
+	>eee
+	>eeee
+	>eeeee
+
+
+	>ee,
+	> Engl
+	>and
+
+
+
+
+	>
+
+
+
+
+
+
+ee
+	>ee
+
+	>
+
+
+e
+	>e
+
+
+
+
+ee
+	>eeeeeeeeee
+-Efficiency:
+0.00%
+
+-44-
+-Sentence:
+Each colony in time developed its own legislature elected by the voters; it grew accustomed to making laws and laying taxes for itself.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+
+
+
+
+
+eetiee for �eaeeee
+-Word-by-word prediction:
+	>eeee
+	>eeeeeee
+	>eee
+	>eeeee
+	>eeeeeeeeee
+	>eeee
+	>eeee
+	>eeeeeeeeeeee
+	>eeeeeeee
+	>eee
+	>eeee
+	>eeeeeeee
+	>eee
+	>eeeee
+	>eeeeeeeeeee
+	>eee
+	>eeeeeee
+	>eeeee
+	>eeee
+	>
+
+
+
+
+
+
+
+	>eetiee
+	> �eaeeee
+-Efficiency:
+0.00%
+
+-45-
+-Sentence:
+Here was a people learning self-reliance and self-government.
+-Sentence predicted:
+
+eeeee
+
+
+ateeor
+
+
+REDireCe self-reliance seeee
+
+
+
+
+
+
+
+
+eeeee
+
+-Word-by-word prediction:
+	>
+eee
+	>ee
+
+
+	>
+a
+	>teeor
+
+
+	>
+REDireCe
+	> see
+	>ee
+
+
+
+
+
+
+
+
+eeeee
+
+-Efficiency:
+0.00%
+
+-46-
+-Sentence:
+The attempts to strengthen the Church of England in America and the transformation of colonies into royal provinces only fanned the spirit of independence which they were designed to quench.
+-Sentence predicted:
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>
+ee
+	>eeeeeeeee
+	>eee
+	>eeeeeeeeeee
+	>eeee
+	>eeeeeee
+	>eee
+	>eeeeeeee
+	>eee
+	>eeeeeeee
+	>eeee
+	>eeee
+	>eeeeeeeeeeeeeee
+	>eee
+	>eeeeeeeee
+	>eeeee
+	>eeeeee
+	>eeeeeeeeee
+	>eeeee
+	>eeeeeee
+	>eeee
+	>eeeeeee
+	>eee
+	>eeeeeeeeeeeee
+	>eeeeee
+	>eeeee
+	>eeeee
+	>eeeeeeeee
+	>eee
+	>eeeeeeee
+-Efficiency:
+0.00%
+
+-47-
+-Sentence:
+Nevertheless, the Americans owed much of their prosperity to the assistance of the government that irritated them.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eeeeeeeeeeeee
+	>eeee
+	>eeeeeeeeee
+	>eeeee
+	>eeeee
+	>eee
+	>eeeeee
+	>eeeeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeeeeee
+	>eeeee
+	>eeeeeeeeee
+	>eeeeee
+-Efficiency:
+0.00%
+
+-48-
+-Sentence:
+It was the protection of the British navy that prevented Holland, Spain, and France from wiping out their settlements.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>ee
+	>eeee
+	>eeee
+	>eeeeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeee
+	>eeeee
+	>eeeee
+	>eeeeeeeeee
+	>eeeeeeeee
+	>eeeeeee
+	>eeee
+	>eeeeeee
+	>eeeee
+	>eeeeeee
+	>eeee
+	>eeeeee
+	>eeeeeeeeeeeee
+-Efficiency:
+0.00%
+
+-49-
+-Sentence:
+Though their manufacture and trade were controlled in the interests of the mother country, they also enjoyed great advantages in her markets.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eeeeee
+	>eeeeee
+	>eeeeeeeeeeee
+	>eeee
+	>eeeeee
+	>eeeee
+	>eeeeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeeeee
+	>eee
+	>eeee
+	>eeeeeee
+	>eeeeeeeee
+	>eeeee
+	>eeeee
+	>eeeeeeee
+	>eeeeee
+	>eeeeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeeee
+-Efficiency:
+0.00%
+
+-50-
+-Sentence:
+Free trade existed nowhere upon the earth; but the broad empire of Britain was open to American ships and merchandise.
+-Sentence predicted:
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>eeee
+	>eeeeee
+	>eeeeeeee
+	>eeeeeeee
+	>eeeee
+	>eeee
+	>eeeeeee
+	>eeee
+	>eeee
+	>eeeeee
+	>eeeeeee
+	>eee
+	>eeeeeeee
+	>eeee
+	>eeeee
+	>eee
+	>eeeeeeeee
+	>eeeeee
+	>eeee
+	>eeeeeeeeeeeee
+-Efficiency:
+0.00%
+
+-51-
+-Sentence:
+It could be said, with good reason, that the disadvantages which the colonists suffered through British regulation of their industry and trade were more than offset by the privileges they enjoyed.
+-Sentence predicted:
+
+
+
+
+
+
+
+
+
+
+
+
+eoees with some reason, hat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e
+
+
+
+
+eeee
+
+
+
+
+
+
+e
+
+
+eeeeeee
+
+
+
+eeeeeeeeeeeeee
+eeeeeeeeeeeeeee
+
+eeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>
+
+
+	>
+
+
+
+
+
+
+	>
+
+
+
+	>
+eoees
+	> some
+	> hat
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+
+e
+	>
+
+
+
+	>
+
+eeee
+	>
+
+
+
+
+
+
+e
+
+	>
+
+ee
+	>eeeee
+
+	>
+
+
+ee
+	>eeeee
+	>eeeee
+	>ee
+eeee
+	>eee
+	>eeee
+	>eeee
+
+eeeee
+	>eeeee
+	>eeeeeeeee
+-Efficiency:
+0.00%
+
+-52-
+-Sentence:
+Still that is somewhat beside the point, for mere economic advantage is not necessarily the determining factor in the fate of peoples.
+-Sentence predicted:
+
+eeeeeeeeeeeeeee
+eeee
+
+
+
+
+
+eee
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+
+
+
+
+
+
+
+
+
+
+
+nn the fate
+eaee
+
+
+
+
+
+
+
+-Word-by-word prediction:
+	>
+eeee
+	>eeeee
+	>eee
+	>eee
+eeee
+
+	>
+
+
+
+
+ee
+	>e
+
+e
+	>eeeeeee
+	>eeee
+	>eeeee
+	>eeeeeeeee
+	>eeeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeeeeeee
+	>eeee
+	>eeeeeee
+
+
+
+
+
+	>
+
+
+
+
+
+
+
+	>
+nn
+	>
+ea
+	>ee
+
+
+
+
+
+
+
+-Efficiency:
+0.00%
+
+-53-
+-Sentence:
+A thousand circumstances had helped to develop on this continent a nation, to inspire it with a passion for independence, and to prepare it for a destiny greater than that of a prosperous dominion of the British empire.
+-Sentence predicted:
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+
+
+eeaied with 
+�aeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+-Word-by-word prediction:
+	>
+
+	>eeeeeeeee
+	>eeeeeeeeeeeeee
+	>eeee
+	>eeeeeee
+	>eee
+	>eeeeeeee
+	>eee
+	>eeeee
+	>eeeeeeeeee
+	>ee
+	>eeeeeeee
+	>eee
+	>e
+
+
+
+eea
+	>ied
+	> 
+
+	>�aeeeeee
+	>eeee
+	>eeeeeeeeeeeeee
+	>eeee
+	>eee
+	>eeeeeeee
+	>eee
+	>eeee
+	>ee
+	>eeeeeeee
+	>eeeeeeee
+	>eeeee
+	>eeeee
+	>eee
+	>ee
+	>eeeeeeeeeee
+	>eeeeeeeee
+	>eee
+	>eeee
+	>eeeeeeee
+	>eeeeeeee
+-Efficiency:
+0.00%
+
+-54-
+-Sentence:
+The economists, who tried to prove by logic unassailable that America would be richer under the British flag, could not change the spirit of Patrick Henry, Samuel Adams, Benjamin Franklin, or George Washington..
+-Sentence predicted:
+The Aaseeni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iatiien by coantn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aaaaaaaaaaaaaaaaa
+
+
+
+
+
+
+
+aaaattoe, Washington..
+-Word-by-word prediction:
+	> Aaseeni
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+	>
+
+i
+	>atiien
+	> coant
+	>n
+
+
+
+
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+	>
+
+
+
+	>
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+
+	>
+
+
+
+
+	>
+
+
+
+
+
+
+
+	>
+
+
+
+	>
+
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+
+	>
+
+
+
+
+
+
+
+	>
+
+aaaaa
+	>aaaaaaaaa
+	>aaa
+
+
+
+
+
+
+
+	>
+aa
+	>aattoe,
+-Efficiency:
+0.00%
+
