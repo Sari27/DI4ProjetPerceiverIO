@@ -1,10 +1,12 @@
 import random
 from perceiver import bytes_tokenizer as bt
 
-# Objectif : masquer un pourcentage de mots spécifique aléatoirement.
+# Librairie utilisée pour masquer les mots dans un échantillon, de manière aléatoire
+# ou de manière définie en ne masquant que la fin des phrases.
 
 
 def chooseMaskedWords(str, maskPercentage):
+    # Objectif : masquer un pourcentage de mots spécifique aléatoirement.
     # Choisit les mots a masquer selon le pourcentage definit
     data = str.split()
     maskedwords = []
@@ -15,6 +17,18 @@ def chooseMaskedWords(str, maskPercentage):
             maskedwords.append(data[word])
             maskedwordsIndexesInData.append(word)
     #retourne la liste des mots masqués et leurs indices dans la liste des mots
+    return maskedwords, maskedwordsIndexesInData
+
+def maskEndOfSentences(str):
+    # Objectif : masquer le dernier mot de chaque phrase.
+    data = str.split()
+    maskedwords = []
+    maskedwordsIndexesInData = []
+    for word in range(len(data)):
+        if '.' in data[word] :
+            maskedwords.append(data[word])
+            maskedwordsIndexesInData.append(word)
+    # retourne la liste des mots masqués et leurs indices dans la liste des mots
     return maskedwords, maskedwordsIndexesInData
 
 
@@ -114,9 +128,20 @@ def main(str, maskPercentage):
     print("chaine avec mots masques : ",maskedString)
     print(maskedwordsIndexesInStr)
 
+def main(str):
+    print("chaine saisie :",str)
+    print("pourcentage saisi : ", maskPercentage)
+    maskedWords, maskedwordsIndexesInData = maskEndOfSentences(str)
+    print("mots a masquer : ", maskedWords)
+    maskedwordsIndexesInStr = findIndexes(str, maskedwordsIndexesInData)
+    maskedString = stringWithMaskedWords(str, maskedwordsIndexesInStr)
+    print("chaine avec mots masques : ",maskedString)
+    print(maskedwordsIndexesInStr)
+
 # Données qui pourront à l'avenir être saisies par l'utilisateur
 maskPercentage = 100  # doit être positif et inferieur a 100
-str = "I wanted to share it with you."
+str = "I wanted to share it with you. This fact is really impressive. I had to tell you the truth."
 
 main(str, maskPercentage)
+main(str)
 """
