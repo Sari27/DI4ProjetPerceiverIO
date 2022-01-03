@@ -58,8 +58,7 @@ def inputWithMaskedWords(str, maskedwordsIndexesInStr):
     #définit la chaîne avec mots masqués
     tokenizer = bt.BytesTokenizer()
     input_tokens = tokenizer.to_int(str)
-    even_len_maskedwordsIndexesInStr = len(maskedwordsIndexesInStr) - len(maskedwordsIndexesInStr) % 2 #"corrige" l'ANOMALIE de analysis.ipynb
-    for masked_word_index in range(0, even_len_maskedwordsIndexesInStr, 2):
+    for masked_word_index in range(0, len(maskedwordsIndexesInStr), 2):
         input_tokens[maskedwordsIndexesInStr[masked_word_index]:maskedwordsIndexesInStr[masked_word_index+1]] = tokenizer.mask_token
     #retourne la chaîne en masquant les mots choisis
     return input_tokens
@@ -71,8 +70,7 @@ def stringWithMaskedWords(str, maskedwordsIndexesInStr):
 
 def extractWordsByIndexes(str, words_indexes_in_str):
     extracted_words = []
-    even_len_words_indexes_in_str = len(words_indexes_in_str) - len(words_indexes_in_str) % 2 #"corrige" l'ANOMALIE de analysis.ipynb
-    for index_even_iterator in range(0, even_len_words_indexes_in_str, 2):
+    for index_even_iterator in range(0, len(words_indexes_in_str), 2):
         extracted_words.append(
             str[words_indexes_in_str[index_even_iterator]:words_indexes_in_str[index_even_iterator + 1]]
         )
@@ -84,9 +82,7 @@ def stringWithNewWords(real_str, found_str, words_indexes_in_str):
     #les Strings sont immuables, donc on utilise une version de found_str sous forme de liste pour la modifier
     predicted_str = list(found_str[:len(real_str)])     #apres len(real_str), il n'y a que des 0
     range_for_overwriting = [i for i in range(0,len(predicted_str))]    #les indices des caracteres a ecraser
-
-    even_len_words_indexes_in_str = len(words_indexes_in_str) - len(words_indexes_in_str) % 2 #"corrige" l'ANOMALIE de analysis.ipynb
-    for index_even_iterator in range(0, even_len_words_indexes_in_str, 2):
+    for index_even_iterator in range(0, len(words_indexes_in_str), 2):
         #on elimine tous les indexes des caracteres qui ne constituent pas les mots devines
         for index_to_delete in range(words_indexes_in_str[index_even_iterator], words_indexes_in_str[index_even_iterator + 1]):
             range_for_overwriting.remove(index_to_delete)
@@ -103,8 +99,7 @@ def stringWithNewWords(real_str, found_str, words_indexes_in_str):
 def computeEfficiency(real_str, found_str, words_indexes_in_str):
     efficiency = 0.0
 
-    even_len_words_indexes_in_str = len(words_indexes_in_str) - len(words_indexes_in_str) % 2 #"corrige" l'ANOMALIE de analysis.ipynb
-    for index_even_iterator in range(0, even_len_words_indexes_in_str, 2):
+    for index_even_iterator in range(0, len(words_indexes_in_str), 2):
         if real_str[words_indexes_in_str[index_even_iterator]:words_indexes_in_str[index_even_iterator + 1]] \
                 == found_str[words_indexes_in_str[index_even_iterator]:words_indexes_in_str[index_even_iterator + 1]]:
             efficiency += 1
